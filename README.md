@@ -23,7 +23,7 @@ It will mainly focus on 2 tracks, Software Development and Deep Learning.
 - NLP
 
 ## Contact
-Although I'm try my best to post the content, sometimes it could have some mistakes. So please help me correct the content!
+Although I'm try my best to post the content, sometimes it could have some mistakes. So please correct me if you catch an error!
 
 
 - Email: tianqinl@andrew.cmu.edu
