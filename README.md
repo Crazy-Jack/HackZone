@@ -1,4 +1,4 @@
-# HackZone
+# HackZone 
 It's a blog for new hackers.
 
 
@@ -11,18 +11,16 @@ I'm an enthusiastic hacker about machine learning and software development. Alth
 Therefore, this blog is about sharing knowledge in computer science and machine learning I've learnt so far. And also it serves as a documentation of my learning at CMU for either doing research or taking classes. Hopefully it can help someone who's just starting to learn CS and ML and also deepen my understanding of what I learnt as well. 
 
 
+## Content
 
+It will mainly focus on 2 tracks, Software Development and Deep Learning. 
 
-## Website development
-### Front end: 
+### Software Development
+- Quick Hack Tutorials
 
-### Main
-
-### 
-
-
-
-
+### ML
+- Deep Learning
+- NLP
 
 ## Contact
 Although I'm try my best to post the content, sometimes it could have some mistakes. So please help me correct the content!
