@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+    web:
+        image: react-protfolio:isolate
+        ports: 
+            - "3001:3000"
+        volumes:
+            - ./protfolio/public:/usr/src/app/public
+            - ./protfolio/src:/usr/src/app/src
+        expose:
+            - "3000"
+        command: npm start
+        
+
+volumes:
+    web:
